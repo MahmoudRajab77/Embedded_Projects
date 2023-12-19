@@ -1,2 +1,2 @@
-# Embedded_Projects
-Some simple projects based on AVR ATmega32 MCU
+# Smart-Home-AVR-Project
+
